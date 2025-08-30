@@ -1,5 +1,7 @@
 package hw_27Aug;
-//we can simply use 2 pointer i and j and find the min height out of those two and once we calculate width we can find the area.. and we can have a maxwater variable after finding area we can find max of both and return as answer
+//we can simply use 2 pointer i and j and 
+//find the min height out of those two and once we calculate width we can find the area
+//and we can have a maxwater variable after finding area we can find max of both and return as answer
 
 class containerwithmaxwater {
     public int maxArea(int[] height) {
